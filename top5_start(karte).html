@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top 5 Stationen</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+</head>
+<body>
+    <div id="map" style="height: 1500px;"></div>
+
+    <script>
+        // Füge eine Leaflet-Karte hinzu
+        var map = L.map('map').setView([37.7749, -122.4194], 13); // Setze den Startpunkt der Karte
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+
+        // Füge Marker für jede Top-Station hinzu
+        var topStations = [
+            { id: 50, name: 'Harry Bridges Plaza (Ferry Building)', lat: 37.79539, long: -122.3942, dock_count: 23 },
+            { id: 55, name: 'Temporary Transbay Terminal (Howard at Beale)', lat: 37.789757, long: -122.394646, dock_count: 23 },
+            { id: 60, name: 'Embarcadero at Sansome', lat: 37.80477, long: -122.40324, dock_count: 15 },
+            { id: 70, name: 'San Francisco Caltrain (Townsend at 4th)', lat: 37.776615, long: -122.39526, dock_count: 19 },
+            { id: 77, name: 'Market at Sansome', lat: 37.789623, long: -122.40081, dock_count: 27 }
+        ];
+
+        topStations.forEach(station => {
+            var marker = L.marker([station.lat, station.long])
+                .addTo(map)
+                .bindPopup(`<b>${station.name}</b><br>Docks: ${station.dock_count}`);
+        });
+    </script>
+</body>
+</html>
