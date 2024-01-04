@@ -1,0 +1,562 @@
+{
+    "10": {
+        "city": "San Jose",
+        "dock_count": 15,
+        "installation_date": "8/6/2013",
+        "lat": 37.337391,
+        "long": -121.886995,
+        "name": "San Jose City Hall"
+    },
+    "11": {
+        "city": "San Jose",
+        "dock_count": 19,
+        "installation_date": "8/6/2013",
+        "lat": 37.335885,
+        "long": -121.88566,
+        "name": "MLK Library"
+    },
+    "12": {
+        "city": "San Jose",
+        "dock_count": 19,
+        "installation_date": "8/7/2013",
+        "lat": 37.332808,
+        "long": -121.883891,
+        "name": "SJSU 4th at San Carlos"
+    },
+    "13": {
+        "city": "San Jose",
+        "dock_count": 15,
+        "installation_date": "8/6/2013",
+        "lat": 37.339301,
+        "long": -121.889937,
+        "name": "St James Park"
+    },
+    "14": {
+        "city": "San Jose",
+        "dock_count": 19,
+        "installation_date": "8/5/2013",
+        "lat": 37.332692,
+        "long": -121.900084,
+        "name": "Arena Green / SAP Center"
+    },
+    "16": {
+        "city": "San Jose",
+        "dock_count": 15,
+        "installation_date": "8/7/2013",
+        "lat": 37.333955,
+        "long": -121.877349,
+        "name": "SJSU - San Salvador at 9th"
+    },
+    "2": {
+        "city": "San Jose",
+        "dock_count": 27,
+        "installation_date": "8/6/2013",
+        "lat": 37.329732,
+        "long": -121.901782,
+        "name": "San Jose Diridon Caltrain Station"
+    },
+    "21": {
+        "city": "Redwood City",
+        "dock_count": 15,
+        "installation_date": "8/12/2013",
+        "lat": 37.481758,
+        "long": -122.226904,
+        "name": "Franklin at Maple"
+    },
+    "22": {
+        "city": "Redwood City",
+        "dock_count": 25,
+        "installation_date": "8/15/2013",
+        "lat": 37.486078,
+        "long": -122.232089,
+        "name": "Redwood City Caltrain Station"
+    },
+    "23": {
+        "city": "Redwood City",
+        "dock_count": 15,
+        "installation_date": "8/15/2013",
+        "lat": 37.487616,
+        "long": -122.229951,
+        "name": "San Mateo County Center"
+    },
+    "24": {
+        "city": "Redwood City",
+        "dock_count": 15,
+        "installation_date": "8/12/2013",
+        "lat": 37.484219,
+        "long": -122.227424,
+        "name": "Redwood City Public Library"
+    },
+    "25": {
+        "city": "Redwood City",
+        "dock_count": 15,
+        "installation_date": "8/12/2013",
+        "lat": 37.48537,
+        "long": -122.203288,
+        "name": "Stanford in Redwood City"
+    },
+    "26": {
+        "city": "Redwood City",
+        "dock_count": 15,
+        "installation_date": "8/12/2013",
+        "lat": 37.487682,
+        "long": -122.223492,
+        "name": "Redwood City Medical Center"
+    },
+    "27": {
+        "city": "Mountain View",
+        "dock_count": 15,
+        "installation_date": "8/16/2013",
+        "lat": 37.389218,
+        "long": -122.081896,
+        "name": "Mountain View City Hall"
+    },
+    "28": {
+        "city": "Mountain View",
+        "dock_count": 23,
+        "installation_date": "8/15/2013",
+        "lat": 37.394358,
+        "long": -122.076713,
+        "name": "Mountain View Caltrain Station"
+    },
+    "29": {
+        "city": "Mountain View",
+        "dock_count": 23,
+        "installation_date": "8/15/2013",
+        "lat": 37.40694,
+        "long": -122.106758,
+        "name": "San Antonio Caltrain Station"
+    },
+    "3": {
+        "city": "San Jose",
+        "dock_count": 15,
+        "installation_date": "8/5/2013",
+        "lat": 37.330698,
+        "long": -121.888979,
+        "name": "San Jose Civic Center"
+    },
+    "30": {
+        "city": "Mountain View",
+        "dock_count": 15,
+        "installation_date": "8/16/2013",
+        "lat": 37.390277,
+        "long": -122.066553,
+        "name": "Evelyn Park and Ride"
+    },
+    "31": {
+        "city": "Mountain View",
+        "dock_count": 15,
+        "installation_date": "12/31/2013",
+        "lat": 37.400443,
+        "long": -122.108338,
+        "name": "San Antonio Shopping Center"
+    },
+    "32": {
+        "city": "Mountain View",
+        "dock_count": 11,
+        "installation_date": "12/31/2013",
+        "lat": 37.385956,
+        "long": -122.083678,
+        "name": "Castro Street and El Camino Real"
+    },
+    "33": {
+        "city": "Mountain View",
+        "dock_count": 15,
+        "installation_date": "8/16/2013",
+        "lat": 37.400241,
+        "long": -122.099076,
+        "name": "Rengstorff Avenue / California Street"
+    },
+    "34": {
+        "city": "Palo Alto",
+        "dock_count": 23,
+        "installation_date": "8/14/2013",
+        "lat": 37.443988,
+        "long": -122.164759,
+        "name": "Palo Alto Caltrain Station"
+    },
+    "35": {
+        "city": "Palo Alto",
+        "dock_count": 11,
+        "installation_date": "8/15/2013",
+        "lat": 37.444521,
+        "long": -122.163093,
+        "name": "University and Emerson"
+    },
+    "36": {
+        "city": "Palo Alto",
+        "dock_count": 15,
+        "installation_date": "8/14/2013",
+        "lat": 37.429082,
+        "long": -122.142805,
+        "name": "California Ave Caltrain Station"
+    },
+    "37": {
+        "city": "Palo Alto",
+        "dock_count": 11,
+        "installation_date": "8/14/2013",
+        "lat": 37.448598,
+        "long": -122.159504,
+        "name": "Cowper at University"
+    },
+    "38": {
+        "city": "Palo Alto",
+        "dock_count": 15,
+        "installation_date": "8/14/2013",
+        "lat": 37.4256839,
+        "long": -122.1377775,
+        "name": "Park at Olive"
+    },
+    "39": {
+        "city": "San Francisco",
+        "dock_count": 19,
+        "installation_date": "8/25/2013",
+        "lat": 37.783871,
+        "long": -122.408433,
+        "name": "Powell Street BART"
+    },
+    "4": {
+        "city": "San Jose",
+        "dock_count": 11,
+        "installation_date": "8/6/2013",
+        "lat": 37.333988,
+        "long": -121.894902,
+        "name": "Santa Clara at Almaden"
+    },
+    "41": {
+        "city": "San Francisco",
+        "dock_count": 15,
+        "installation_date": "8/19/2013",
+        "lat": 37.795001,
+        "long": -122.39997,
+        "name": "Clay at Battery"
+    },
+    "42": {
+        "city": "San Francisco",
+        "dock_count": 15,
+        "installation_date": "8/19/2013",
+        "lat": 37.79728,
+        "long": -122.398436,
+        "name": "Davis at Jackson"
+    },
+    "45": {
+        "city": "San Francisco",
+        "dock_count": 15,
+        "installation_date": "8/19/2013",
+        "lat": 37.794231,
+        "long": -122.402923,
+        "name": "Commercial at Montgomery"
+    },
+    "46": {
+        "city": "San Francisco",
+        "dock_count": 15,
+        "installation_date": "8/19/2013",
+        "lat": 37.795425,
+        "long": -122.404767,
+        "name": "Washington at Kearney"
+    },
+    "47": {
+        "city": "San Francisco",
+        "dock_count": 19,
+        "installation_date": "8/19/2013",
+        "lat": 37.788975,
+        "long": -122.403452,
+        "name": "Post at Kearney"
+    },
+    "48": {
+        "city": "San Francisco",
+        "dock_count": 15,
+        "installation_date": "8/19/2013",
+        "lat": 37.799953,
+        "long": -122.398525,
+        "name": "Embarcadero at Vallejo"
+    },
+    "49": {
+        "city": "San Francisco",
+        "dock_count": 19,
+        "installation_date": "8/20/2013",
+        "lat": 37.790302,
+        "long": -122.390637,
+        "name": "Spear at Folsom"
+    },
+    "5": {
+        "city": "San Jose",
+        "dock_count": 19,
+        "installation_date": "8/5/2013",
+        "lat": 37.331415,
+        "long": -121.8932,
+        "name": "Adobe on Almaden"
+    },
+    "50": {
+        "city": "San Francisco",
+        "dock_count": 23,
+        "installation_date": "8/20/2013",
+        "lat": 37.795392,
+        "long": -122.394203,
+        "name": "Harry Bridges Plaza (Ferry Building)"
+    },
+    "51": {
+        "city": "San Francisco",
+        "dock_count": 19,
+        "installation_date": "8/20/2013",
+        "lat": 37.791464,
+        "long": -122.391034,
+        "name": "Embarcadero at Folsom"
+    },
+    "54": {
+        "city": "San Francisco",
+        "dock_count": 15,
+        "installation_date": "8/20/2013",
+        "lat": 37.787152,
+        "long": -122.388013,
+        "name": "Embarcadero at Bryant"
+    },
+    "55": {
+        "city": "San Francisco",
+        "dock_count": 23,
+        "installation_date": "8/20/2013",
+        "lat": 37.789756,
+        "long": -122.394643,
+        "name": "Temporary Transbay Terminal (Howard at Beale)"
+    },
+    "56": {
+        "city": "San Francisco",
+        "dock_count": 19,
+        "installation_date": "8/20/2013",
+        "lat": 37.792251,
+        "long": -122.397086,
+        "name": "Beale at Market"
+    },
+    "57": {
+        "city": "San Francisco",
+        "dock_count": 15,
+        "installation_date": "8/21/2013",
+        "lat": 37.781752,
+        "long": -122.405127,
+        "name": "5th at Howard"
+    },
+    "58": {
+        "city": "San Francisco",
+        "dock_count": 19,
+        "installation_date": "8/21/2013",
+        "lat": 37.77865,
+        "long": -122.418235,
+        "name": "San Francisco City Hall"
+    },
+    "59": {
+        "city": "San Francisco",
+        "dock_count": 23,
+        "installation_date": "8/21/2013",
+        "lat": 37.781332,
+        "long": -122.418603,
+        "name": "Golden Gate at Polk"
+    },
+    "6": {
+        "city": "San Jose",
+        "dock_count": 15,
+        "installation_date": "8/7/2013",
+        "lat": 37.336721,
+        "long": -121.894074,
+        "name": "San Pedro Square"
+    },
+    "60": {
+        "city": "San Francisco",
+        "dock_count": 15,
+        "installation_date": "8/21/2013",
+        "lat": 37.80477,
+        "long": -122.403234,
+        "name": "Embarcadero at Sansome"
+    },
+    "61": {
+        "city": "San Francisco",
+        "dock_count": 27,
+        "installation_date": "8/22/2013",
+        "lat": 37.780526,
+        "long": -122.390288,
+        "name": "2nd at Townsend"
+    },
+    "62": {
+        "city": "San Francisco",
+        "dock_count": 19,
+        "installation_date": "8/22/2013",
+        "lat": 37.785299,
+        "long": -122.396236,
+        "name": "2nd at Folsom"
+    },
+    "63": {
+        "city": "San Francisco",
+        "dock_count": 19,
+        "installation_date": "8/22/2013",
+        "lat": 37.786978,
+        "long": -122.398108,
+        "name": "Howard at 2nd"
+    },
+    "64": {
+        "city": "San Francisco",
+        "dock_count": 15,
+        "installation_date": "8/22/2013",
+        "lat": 37.782259,
+        "long": -122.392738,
+        "name": "2nd at South Park"
+    },
+    "65": {
+        "city": "San Francisco",
+        "dock_count": 15,
+        "installation_date": "8/22/2013",
+        "lat": 37.771058,
+        "long": -122.402717,
+        "name": "Townsend at 7th"
+    },
+    "66": {
+        "city": "San Francisco",
+        "dock_count": 19,
+        "installation_date": "8/23/2013",
+        "lat": 37.774814,
+        "long": -122.418954,
+        "name": "South Van Ness at Market"
+    },
+    "67": {
+        "city": "San Francisco",
+        "dock_count": 27,
+        "installation_date": "8/23/2013",
+        "lat": 37.776619,
+        "long": -122.417385,
+        "name": "Market at 10th"
+    },
+    "68": {
+        "city": "San Francisco",
+        "dock_count": 19,
+        "installation_date": "8/23/2013",
+        "lat": 37.784878,
+        "long": -122.401014,
+        "name": "Yerba Buena Center of the Arts (3rd @ Howard)"
+    },
+    "69": {
+        "city": "San Francisco",
+        "dock_count": 23,
+        "installation_date": "8/23/2013",
+        "lat": 37.7766,
+        "long": -122.39547,
+        "name": "San Francisco Caltrain 2 (330 Townsend)"
+    },
+    "7": {
+        "city": "San Jose",
+        "dock_count": 15,
+        "installation_date": "8/7/2013",
+        "lat": 37.333798,
+        "long": -121.886943,
+        "name": "Paseo de San Antonio"
+    },
+    "70": {
+        "city": "San Francisco",
+        "dock_count": 19,
+        "installation_date": "8/23/2013",
+        "lat": 37.776617,
+        "long": -122.39526,
+        "name": "San Francisco Caltrain (Townsend at 4th)"
+    },
+    "71": {
+        "city": "San Francisco",
+        "dock_count": 19,
+        "installation_date": "8/23/2013",
+        "lat": 37.788446,
+        "long": -122.408499,
+        "name": "Powell at Post (Union Square)"
+    },
+    "72": {
+        "city": "San Francisco",
+        "dock_count": 23,
+        "installation_date": "8/23/2013",
+        "lat": 37.781039,
+        "long": -122.411748,
+        "name": "Civic Center BART (7th at Market)"
+    },
+    "73": {
+        "city": "San Francisco",
+        "dock_count": 15,
+        "installation_date": "8/21/2013",
+        "lat": 37.798522,
+        "long": -122.407245,
+        "name": "Grant Avenue at Columbus Avenue"
+    },
+    "74": {
+        "city": "San Francisco",
+        "dock_count": 23,
+        "installation_date": "8/25/2013",
+        "lat": 37.794139,
+        "long": -122.394434,
+        "name": "Steuart at Market"
+    },
+    "75": {
+        "city": "San Francisco",
+        "dock_count": 19,
+        "installation_date": "8/25/2013",
+        "lat": 37.7913,
+        "long": -122.399051,
+        "name": "Mechanics Plaza (Market at Battery)"
+    },
+    "76": {
+        "city": "San Francisco",
+        "dock_count": 19,
+        "installation_date": "8/25/2013",
+        "lat": 37.786305,
+        "long": -122.404966,
+        "name": "Market at 4th"
+    },
+    "77": {
+        "city": "San Francisco",
+        "dock_count": 27,
+        "installation_date": "8/25/2013",
+        "lat": 37.789625,
+        "long": -122.400811,
+        "name": "Market at Sansome"
+    },
+    "8": {
+        "city": "San Jose",
+        "dock_count": 15,
+        "installation_date": "8/5/2013",
+        "lat": 37.330165,
+        "long": -121.885831,
+        "name": "San Salvador at 1st"
+    },
+    "80": {
+        "city": "San Jose",
+        "dock_count": 15,
+        "installation_date": "12/31/2013",
+        "lat": 37.352601,
+        "long": -121.905733,
+        "name": "Santa Clara County Civic Center"
+    },
+    "82": {
+        "city": "San Francisco",
+        "dock_count": 15,
+        "installation_date": "1/22/2014",
+        "lat": 37.798541,
+        "long": -122.400862,
+        "name": "Broadway St at Battery St"
+    },
+    "83": {
+        "city": "Redwood City",
+        "dock_count": 15,
+        "installation_date": "2/20/2014",
+        "lat": 37.491269,
+        "long": -122.236234,
+        "name": "Mezes Park"
+    },
+    "84": {
+        "city": "San Jose",
+        "dock_count": 15,
+        "installation_date": "4/9/2014",
+        "lat": 37.342725,
+        "long": -121.895617,
+        "name": "Ryland Park"
+    },
+    "9": {
+        "city": "San Jose",
+        "dock_count": 15,
+        "installation_date": "8/5/2013",
+        "lat": 37.348742,
+        "long": -121.894715,
+        "name": "Japantown"
+    }
+}
